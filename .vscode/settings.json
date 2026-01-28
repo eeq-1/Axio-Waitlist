@@ -1,0 +1,16 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.validProperties": "ignore",
+  "css.lint.emptyRules": "ignore",
+  "css.lint.duplicateProperties": "ignore",
+  "css.lint.importStatement": "ignore",
+  "css.validate": false,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
+
